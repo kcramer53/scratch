@@ -1,0 +1,20 @@
+/h1{
+  font-size: 25px;
+  font-family: sans-serif;
+
+
+}
+p{
+  font-weight: 200px;
+  color: green;
+}
+
+img {
+  height: 100%;
+  width: 100%;
+}
+
+li {
+  padding: 20px;
+  margin: 10px;
+}
